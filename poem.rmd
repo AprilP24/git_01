@@ -16,6 +16,7 @@ you, if you change any of this the git program will notice it and compromise you
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 <<<<<<< HEAD
+<<<<<<< HEAD
  
 =======
 ’Twas brillig, and the slithy toves  
@@ -25,11 +26,17 @@ All mimsy were the borogoves,
 
 “Beware the Jabberwock, my son!  
 >>>>>>> verse1
+=======
+  
+>>>>>>> Verse4
 
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
+<<<<<<< HEAD
 
+=======
+>>>>>>> Verse4
 
 
 ## Third Verse
@@ -37,4 +44,48 @@ All mimsy were the borogoves,
 
 
 ## Last Verse
-<!--Put a short poem of your choice 8 to 20 lines,here!-->
+<!--Put a short poem you created using ChatGPT of 20 to 30 
+lines,here!-->
+In the realm where dreams take flight,  
+A wondrous creature brings delight.  
+With wings aglow, so soft and light,  
+A fairy dances through the night.  
+
+Her gown adorned in colors rare,  
+With petals woven through her hair.  
+Ethereal grace and gentle flair,  
+She spreads enchantment everywhere.  
+
+From dew-kissed meadows to moonlit glades,  
+She weaves her magic in hidden shades.  
+Whispers of secrets in woodland cascades,  
+A guardian of nature's serenades.  
+
+With each flutter of her delicate wings,  
+She sprinkles stardust and joy she brings.  
+Granting wishes and granting dreams,  
+In her presence, life truly gleams.  
+
+Through ancient forests and shimmering streams,  
+The fairy glides, a vision it seems.  
+Guardian of creatures, large and small,  
+She watches over them, one and all.  
+
+With mischief twinkling in her eyes,  
+She enchants the world with sweet surprise.  
+Her laughter rings like a lullaby,  
+Echoing through the midnight sky.  
+
+But heed her warning, oh mortal soul,  
+Respect her realm and keep it whole.  
+For fairies thrive where hearts are pure,  
+In harmony with nature's allure.  
+
+So let us cherish the fairy's grace,   
+And honor her magical embrace.  
+
+
+
+
+
+>>>>>>> Verse4
