@@ -26,17 +26,9 @@ All mimsy were the borogoves,
 
 “Beware the Jabberwock, my son!  
 >>>>>>> verse1
-=======
-  
->>>>>>> Verse4
-
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
-<<<<<<< HEAD
-
-=======
->>>>>>> Verse4
 
 
 ## Third Verse
@@ -83,9 +75,4 @@ In harmony with nature's allure.
 
 So let us cherish the fairy's grace,   
 And honor her magical embrace.  
-
-
-
-
-
 >>>>>>> Verse4
