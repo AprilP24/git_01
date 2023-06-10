@@ -17,6 +17,7 @@ you, if you change any of this the git program will notice it and compromise you
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
  
 =======
 ’Twas brillig, and the slithy toves  
@@ -27,17 +28,37 @@ All mimsy were the borogoves,
 “Beware the Jabberwock, my son!  
 >>>>>>> verse1
 
+
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
-
+Two roads diverged in a yellow wood,  
+And sorry I could not travel both  
+And be one traveler, long I stood  
+And looked down one as far as I could  
+To where it bent in the undergrowth;  
 
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
+"The sun was shining on the sea,  
+      Shining with all his might:  
+He did his very best to make  
+      The billows smooth and bright —  
+And this was odd, because it was  
+      The middle of the night.  
+
+The moon was shining sulkily,  
+      Because she thought the sun  
+Had got no business to be there  
+      After the day was done —  
+"It's very rude of him," she said,  
+      "To come and spoil the fun."  
+>>>>>>> mid2
 
 
 ## Last Verse
 <!--Put a short poem you created using ChatGPT of 20 to 30 
 lines,here!-->
+<<<<<<< HEAD
 In the realm where dreams take flight,  
 A wondrous creature brings delight.  
 With wings aglow, so soft and light,  
@@ -76,3 +97,4 @@ In harmony with nature's allure.
 So let us cherish the fairy's grace,   
 And honor her magical embrace.  
 >>>>>>> Verse4
+=======
